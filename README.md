@@ -18,5 +18,7 @@ A walk through example is provided in the ipython notebook ```example_analysis.i
 
 This code was largely translated from Taylor Perron's ```2DSpecTools``` package for MATLAB<sup>TM</sup> available at [http://web.mit.edu/perron/www/downloads.html](http://web.mit.edu/perron/www/downloads.html)
 
-For background on this spectral analysis procedure and the paper that spurred this analysis refer to: Perron, J. T., Kirchner, J. W., and Dietrich, W. E.: Spectral signatures of characteristic spatial scales and nonfractal structure in landscapes, Journal of Geophysical Research, 113, 2008. [https://doi.org/10.1029/2007JF000866](https://doi.org/10.1029/2007JF000866)
+For background on this spectral analysis procedure and the paper that spurred this analysis refer to: 
+
+* Perron, J. T., Kirchner, J. W., and Dietrich, W. E.: Spectral signatures of characteristic spatial scales and nonfractal structure in landscapes, Journal of Geophysical Research, 113, 2008. [https://doi.org/10.1029/2007JF000866](https://doi.org/10.1029/2007JF000866)
 
