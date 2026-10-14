@@ -22,3 +22,9 @@ For background on this spectral analysis procedure and the paper that spurred th
 
 * Perron, J. T., Kirchner, J. W., and Dietrich, W. E.: Spectral signatures of characteristic spatial scales and nonfractal structure in landscapes, Journal of Geophysical Research, 113, 2008. [https://doi.org/10.1029/2007JF000866](https://doi.org/10.1029/2007JF000866)
 
+
+# Spatial recurrence lacunarity
+
+As a complement to the Fourier analysis, ```recurrence_lacunarity_analysis.ipynb``` applies the normalized recurrence lacunarity (nRL) of spatial recurrence plots to slope maps of the same two DEMs, using the functions in ```recurrence_lacunarity.py```. The method follows:
+
+* Bielig, C., Braun, T., Palmero, M. S., Rheinwalt, A., and Marwan, N.: Recurrence lacunarity of spatial data, The European Physical Journal Special Topics, 2026. [https://doi.org/10.1140/epjs/s11734-026-02569-4](https://link.springer.com/article/10.1140/epjs/s11734-026-02569-4)
